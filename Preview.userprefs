@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Preview/Preview.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Preview/AppDelegate.cs">
+    <Files>
+      <File FileName="Preview/AppDelegate.cs" Line="21" Column="6" />
+      <File FileName="../../Develop/Projects/SSP/SSP.Mobile/SSP.Mobile.iOS/Renderers/DocumentViewerPage_iOS.cs" Line="1" Column="1" />
+      <File FileName="Preview/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Preview" expanded="True">
+            <Node name="Preview" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
